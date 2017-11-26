@@ -1,0 +1,9 @@
+{
+  "name": "game-server",
+  "version": "0.0.0",
+  "description": "GameServer",
+  "main": "app.js",
+  "author": {
+    "name": "gurcaglar"
+  }
+}
